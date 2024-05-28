@@ -7,7 +7,7 @@ import os
 import time
 
 # Chave API do bot
-chave_API = "7103427784:AAHmjR-l_ZGdwW1sJwlCu5VGx7ow8D2Bwp4"
+chave_API = #######################################################
 
 # Cria a instância do bot
 bot = telebot.TeleBot(chave_API)
